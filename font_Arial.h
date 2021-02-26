@@ -1,7 +1,7 @@
 #ifndef _ILI9341_t3_font_Arial_
 #define _ILI9341_t3_font_Arial_
 
-#include "ILI9341_t3.h"
+#include "ILI9341_t3_neo.h"
 
 #ifdef __cplusplus
 extern "C" {
